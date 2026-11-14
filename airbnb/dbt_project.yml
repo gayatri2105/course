@@ -39,3 +39,5 @@ models:
       +materialized: table
     fct:
       +materialized: table
+    src:
+      +materialized: ephemeral
