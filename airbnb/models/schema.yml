@@ -72,6 +72,6 @@ models:
        - name: review_text
          data_tests:
            - not_null
-       - name: review_name
+       - name: reviewer_name
          data_tests:
              - not_null
